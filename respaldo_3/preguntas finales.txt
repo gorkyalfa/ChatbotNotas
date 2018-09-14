@@ -1,0 +1,147 @@
+Preguntas:
+1.-Cuantos años lleba en funcionamieto el instituto.
+2.-Que carreras ofrece.
+3.-Que carreras son dulaes. 
+4.-Con cuantos docentes cuenta el instituto.
+5.-Cunatos laboratorios de informatic cuenta el instituto. 
+6.-Con cuantos laboratoriosde ingles cuenta el instituto.
+7.-En que conciste las carreras duales.
+8.-Cual es la direccion del instituto.
+9.-Cual fue la primera carrera dual que implementaron.
+10.-Ofrecen titutlos de tercer nivel.
+11.-Por qué deveria escojer esta institutcion.
+12.-Cuál es la formación de los profesores.
+13.-hay semilleros de investigación.
+14.-Además de contar con labaratorios de primera tinen una biblioteca.
+15.-Cómo ha impactado la comunidaddelinstituto en la sociedad.
+16.-El instituto tiene un programa para homologar algunas asignaturas.
+17.-Como es el metodo de enseñansa.
+18.-Cuantas horas se cumple en la face prectica de una carrera dual.
+19.-Cuantos egresados acceden al musndo laboral.
+20.-Permite el instututo estudiar y trabajr ala misma ves.
+21.-Los docentes cada cuanto tienpo reciven capaciatciones.
+22.-Que es lo que aspira la istitutcion con los alumnos.
+23.-Es buena la enseña que inparten.
+24.-Que valores inparte la institutcion.
+25.-Hay insentivos por los docentes asia los alumnos.
+26.-Cuales son las fechas de matriculacion.
+27.-Los docemtes dan recuperaciones a los alumnos
+
+1.-sobre el instituto
+  1.-Cuantos años lleba en funcionamieto el instituto.
+  2.-Que carreras ofrece.
+  3.-Que carreras son dulaes. 
+  4.-Con cuantos docentes cuenta el instituto.
+  5.-Cuantos laboratorios de informatica cuenta el instituto. 
+  6.-Con cuantos laboratoriosde ingles cuenta el instituto.
+  7.-Cual es la direccion del instituto.
+  8.-Por qué deveria escojer esta institutcion.
+  9.-hay semilleros de investigación.
+  10.-Además de contar con labaratorios de primera tinen una biblioteca.
+  11.-Cómo ha impactado la comunidaddelinstituto en la sociedad.
+  12.-Permite el instututo estudiar y trabajr ala misma ves.
+  13.-Que es lo que aspira la istitutcion con los alumnos.
+  14.-Que valores inparte la institutcion.
+  15.-Cuales son las fechas de matriculacion.
+  16.-Qué significa yavirac.
+  17.-Por qué se creo el instituto yavirac.
+  18.-Qué tiempo viene funcionando el instituto yavirac
+  19.-El título que me otorgará el instututo es de tercer nivel
+  20.-Como puedo conocer eventos que realice el instituto
+  21.-cúales son los requisitos para estudiar en el instituto
+  22.-cúales son los requisitos para estudiar en el instituto
+  23.-la empresa donde el estudiante realiza las prácticas necesariamente la     designa el instituto
+  24.-cúales son los alcances logrados academicamente como institución
+  25.-Como me informo de las participaciones culturales, tecnologicas de     estudiantes o docentes fuera del instituto
+  26.-Los laboratorios de la institución tienen tecnología de punta
+  27.-Qué personas se encargan del mantenimiento del equipo físico de laboratorio
+  28.-Podría implementarse en el instituto estudios a distancia
+  29.- hay mas espacio fisico para fomentar mas carreras
+  30.-Qué actividades de recreacion hay para los estudiantes en el instituto.
+  31.-la biblioteca cuenta con tecnologia optima para sus estudiantes.
+  32.-con que empresas cuenta el instituto para sus faces practicas.
+  33.-en caso de un accidente en el instituto cuenta con una oficina medica
+  34.- el instituto cuenta con una cafeteria para ir a comer
+  35.-si el instituto cuentas con becas.
+
+2.-sobre las carreras.
+  1.-En que conciste las carreras duales.
+  2.-Cual fue la primera carrera dual que implementaron.
+  3.-Ofrecen titutlos de tercer nivel.
+  4.-El instituto tiene un programa para homologar algunas asignaturas.
+  5.-Cuantas horas se cumple en la face prectica de una carrera dual.
+  6.-Cuantos egresados acceden al mundo laboral.
+  7.-qué tiempo dura cada parcial
+  8.-Las prácticas se las realiza siempre en la misma empresa
+  9.-En qué consiste la educación dual
+  10.-cúantos niveles de estudios tienen las carreras duales
+  11.-Las prácticas se las realiza siempre en la misma empresa
+  12.-La educación dual se extenderá a todas las carreras del instituto
+  13.-Cúal es el costo de matrícula por pérdida de nivel
+  14.-Existen exámenes de recuperación
+  15.-Dónde me informo sobre las materias de las distintas carreras
+  16.-Cúantos docente existen por carreras
+  17.-Cada que período modifican la malla curricular por carrera
+  18.-cuantas materias hay en cada malla curricular. 
+  cual es el campo de investigacion de la carrera de desarrollo de software
+  19.-cuales son los proyectos inovadores de tesis dentro de las carreras
+  20.-cuales su metodologia de enseñanza para las diversas carreras
+
+
+3.-sobre los docentes.
+  1.-Cuál es la formación de los docentes.
+  2.-Como es el metodo de enseñansa.
+  3.-Los docentes cada cuanto tienpo reciven capaciatciones.
+  4.-Es buena la enseña que inparten.
+  5.-Hay insentivos por los docentes asia los alumnos.
+  6.-Los docentes dan recuperaciones a los alumnos
+  7.-Donde puedo consultar mis notas parciales 
+  8.-Fechas establecidas para la entrega de notas
+  9.-Que tipo de sistema de calificacion utilizan los profesores para los estudiantes.  
+  10.- De que fecha a que fecha son los los parciales 
+  11.- como se califican la face practica 
+  12.- cules el nivel de estudios de los profesores 
+
+
+
+
+4 sobre estudiantes
+  1.- y cuanto tiempo de vacaciones tienen los estudiantes una vez acabada sus actividades academicas.
+  2.- qué tipo de servicios de apoyo socio economico cuenta el instituto 
+  3.- si el instituto cuenta con la respectiva seguridad para los estudiantes 
+  4.- Qué clubes estudiantiles están disponibles
+  5.- Qué nivel debo aprender de inglés para culminar mis estudios
+  6.- cuanto es mi nota del proyecto integrador
+  7.- cual es mi nota en cada una de las materias 
+  8.- si vengo de provincia dónde puedo vivir 
+
+
+5.- Sobre materias
+  1.-cúal es la nota mínima para aprobar una asignatura
+  2.- qué sucede sino alcanzo la nota mínima por asignatura
+  3.-sino apruebo una materia debo matricularme nuevamente en todas
+  4.-sino apruebo la fase práctica puedo retomarla en el siguiente semestre
+  5.-Si repruebo la fase práctica tengo que nuevamente repetir la fase teórica
+  6.-Cúal es la nota mínima que puedo obtener en el proyecto integrador
+  7.-Cúal es la nota mínima que debo obtener en el proyecto práctico
+  8.- Como puedo averiguar cada uno de mis aportes por materia.
+  9.-Dónde me informo de los horarios de cada materia
+  10.-El instituto entrega certificados al culminar la fase práctica
+  11.-Cúantos niveles de ingles se tiene que aprobar
+  12.-Qué tipo de actividades hay en el institucion para reforzar conocimientos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

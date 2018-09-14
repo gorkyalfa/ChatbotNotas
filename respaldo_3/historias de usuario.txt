@@ -1,0 +1,53 @@
+HISTORIAS DE USUARIOS
+
+Registro de notas
+ 
+Como Docente 
+Quiero registrar notas de una materia
+Para calcular un promedio.
+
+Como Docente 
+Quiero registrar las tareas 
+Para calificarlas posteriormente  
+
+Como Docente 
+Quiero establecer una ponderación de una tarea
+Para dar valor a una tarea.
+
+Como Docente 
+Quiero registrar las tareas 
+Para calificarlas posteriormente 
+
+Como Coordinador
+Quiero establecer categoria de tareas 
+Para contar con tareas en todas las categorias.
+
+Como Coordinador
+Quiero ingresar los parciales 
+Para cumplir el minímo de notas.
+
+Como Coordinador
+Quiero definir la lógica 
+Para saber si un estudiante aprueba.
+
+Como Estudiante 
+Quiero visualizar la nota de una materia 
+Para aplicarme mas 
+ 
+Como Estudiante 
+Quiero saber mi nota exacta del examen basada en el 20%
+Para tener una perspectiva general de mi rendimiento académico.
+
+Como Estudiante
+Quiero saber mi rendimiento semanal o quimestral
+Para cumplir con el rendimiento académico necesario. 
+
+Como Estudiante
+Quiero saber mi nota 
+Para evitar el contacto con los docentes.
+
+Como Estudiante
+Quiero saber si aprobe el semestre o no al final
+Para poder presentarme a la fase práctica.
+
+
