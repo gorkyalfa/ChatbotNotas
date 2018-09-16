@@ -1,0 +1,28 @@
+Diccionario
+
+1. Scrum --  Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor 
+resultado posible de un proyecto.
+
+2. SQL -- Es un lenguaje específico del dominio utilizado en programación, diseñado para administrar sistemas de gestión de bases de datos relacionales. 
+
+3. Server -- Es uno de los factores clave de la transformación digital que se encargade transmitir la información para el correcto funcionamiento de la organización.
+
+4. Chatbot -- Es un software de inteligencia artificial diseñado para realizar una serie de tareas por su cuenta y sin la ayuda del ser humano.
+
+5. LUIS -- Es un lenguaje natural que entiende en un servicio inteligente
+
+6. Github -- es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de 
+programas de computadora.
+
+7.IDE -- Es un entorno de desarrollo integrado.
+
+8.Visual Studio --  es un IDE para sistemas operativos Windows que soporta múltiples lenguajes de programación, como C++, C#, Visual Basic .NET, F#, Java, Python,
+Ruby, PHP y hasta sitios web como: ASP.NET MVC.
+
+9.AZURE -- es conjunto en constante expansión de servicios en la nube para ayudar a su organización a satisfacer sus necesidades comerciales.
+
+10.MVC -- Es un modelo de vista y controlador.
+
+11.TRELLO -- es una fabulosa herramienta para la organización de tareas.
+
+12. SPECFLOW -- Es una herramienta para entornos de desarrollo ágil, busca mejorar la especificación de requerimientos y se generan escenarios en palabras claves.
