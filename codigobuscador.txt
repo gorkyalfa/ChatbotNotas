@@ -1,0 +1,64 @@
+using System.Collections.Generic;
+
+namespace notas.Models
+{
+    public class Buscador
+    {
+        public static double Busqueda(Repositorio repo, string correoUsuario, string materia)
+        {
+            var idPersona = BusquedaPersona(repo.Estudiantes, correoUsuario);
+            if (idPersona == -1)
+                return -1;
+
+            var idMateria = BusquedaMateria(repo.Materias, materia);
+            if (idMateria == -1)
+                return -1;
+
+            var valor = BusquedaNota(repo.Notas, idPersona, idMateria);
+            return valor;
+        }
+
+
+        private static double BusquedaNota(List<Nota> notas, int idPersona, int idMateria)
+        {
+            for (int indice = 0; indice < notas.Count - 1; indice++)
+            {
+                if (notas[indice].IdEstudiante == idPersona && notas[indice].IdMateria == idMateria)
+                    return notas[indice].Valor;
+            }
+            return -1;
+
+        }
+
+        private static int BusquedaMateria(List<Materia> materias, string nombreMateria)
+        {
+            for (int indice = 0; indice < materias.Count - 1; indice++)
+            {
+                if (Comparar(materias[indice].Nombre, nombreMateria))
+                    return materias[indice].Id;
+
+            }
+            return -1;
+        }
+
+        private static bool Comparar(string nombre, string nombreMateria)
+        {
+            if (nombreMateria == nombre)
+                return true;
+            return false;
+        }
+
+        private static int BusquedaPersona(List<Estudiante> estudiantes, string correoUsuario)
+        {
+            for (int indice = 0; indice < estudiantes.Count - 1; indice++)
+            {
+                if (estudiantes[indice].Correo.ToLower() == correoUsuario.ToLower())
+                    return estudiantes[indice].Id;
+
+            }
+            return -1;
+        }
+    }
+}
+
+ 
